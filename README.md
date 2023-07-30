@@ -2,7 +2,7 @@
           Hii, I'm <a href="https://jayesh-jain-portfolio.netlify.app/">Jayesh<a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/>
     </h1>
     
-      - 21 year old following passion.
+      - 22 year old following passion.
       - I'm addicted to learn everyday.
       - Full stack Blockchain developer.
       - Helping community :)
