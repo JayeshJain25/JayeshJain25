@@ -2,9 +2,9 @@
           Hii, I'm <a href="https://jayesh-jain-portfolio.netlify.app/">Jayesh<a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/>
     </h1>
     
-      - 22 year old following passion.
+      - 23 year old following passion.
       - I'm addicted to learn everyday.
-      - Full stack Blockchain developer.
+      - Full stack Software developer.
       - Helping community :)
       - I like building projects which solve real-life problems e.g. I've built a many projects like decentralized lottery system, decentralized Real Estate system, NFT Marketplace etc.
       
